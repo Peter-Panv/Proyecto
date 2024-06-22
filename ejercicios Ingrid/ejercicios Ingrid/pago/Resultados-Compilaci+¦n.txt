@@ -1,0 +1,7 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: pago, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>C:\Users\JORGE\OneDrive\Escritorio\pago\pago\Program.cs(37,2,37,2): error CS1513: Se esperaba }
+1>Compilación del proyecto "pago.csproj" terminada -- ERROR.
+========== Compilación: 0 correcto, 1 erróneo, 0 actualizado, 0 omitido ==========
+========= Compilar se inició en 16:08 y tomó 12.024 segundos ==========

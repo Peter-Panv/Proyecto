@@ -1,0 +1,14 @@
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\pago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\pago.AssemblyInfoInputs.cache
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\pago.AssemblyInfo.cs
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\pago.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\bin\Debug\net6.0\pago.exe
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\bin\Debug\net6.0\pago.deps.json
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\bin\Debug\net6.0\pago.runtimeconfig.json
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\bin\Debug\net6.0\pago.dll
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\bin\Debug\net6.0\pago.pdb
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\pago.dll
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\refint\pago.dll
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\pago.pdb
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\pago.genruntimeconfig.cache
+C:\Users\JORGE\OneDrive\Escritorio\pago\pago\obj\Debug\net6.0\ref\pago.dll
