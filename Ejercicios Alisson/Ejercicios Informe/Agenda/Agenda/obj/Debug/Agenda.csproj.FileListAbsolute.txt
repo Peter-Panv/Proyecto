@@ -1,0 +1,7 @@
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Agenda\Agenda\obj\Debug\Agenda.pdb

@@ -1,0 +1,7 @@
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Presupuestos\Presupuestos\bin\Debug\Presupuestos.exe.config
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Presupuestos\Presupuestos\bin\Debug\Presupuestos.exe
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Presupuestos\Presupuestos\bin\Debug\Presupuestos.pdb
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Presupuestos\Presupuestos\obj\Debug\Presupuestos.csproj.AssemblyReference.cache
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Presupuestos\Presupuestos\obj\Debug\Presupuestos.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Presupuestos\Presupuestos\obj\Debug\Presupuestos.exe
+C:\Users\LATITUDE7400\source\repos\Ejercicios de practica\Presupuestos\Presupuestos\obj\Debug\Presupuestos.pdb
