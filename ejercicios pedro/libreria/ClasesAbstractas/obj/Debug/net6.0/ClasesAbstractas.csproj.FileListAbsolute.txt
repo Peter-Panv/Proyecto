@@ -1,0 +1,14 @@
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.exe
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.deps.json
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.runtimeconfig.json
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.dll
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.pdb
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.AssemblyInfo.cs
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.dll
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\refint\ClasesAbstractas.dll
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.pdb
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.genruntimeconfig.cache
+C:\Users\anony\Desktop\ClasesAbstractas\ClasesAbstractas\obj\Debug\net6.0\ref\ClasesAbstractas.dll
